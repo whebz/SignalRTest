@@ -1,0 +1,13 @@
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\ESCUtility.dll
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\ESCUtility.pdb
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\Microsoft.AspNet.SignalR.Hosting.AspNet.dll
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\Microsoft.AspNet.SignalR.Hosting.Common.dll
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\Newtonsoft.Json.dll
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\Microsoft.AspNet.SignalR.Hosting.AspNet.xml
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\Microsoft.AspNet.SignalR.Hosting.Common.xml
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\bin\Newtonsoft.Json.xml
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\obj\Debug\ESCUtility.csprojResolveAssemblyReference.cache
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\obj\Debug\ESCUtility.dll
+C:\webProject_2012\Project1\ESCUtility\ESCUtility\obj\Debug\ESCUtility.pdb
